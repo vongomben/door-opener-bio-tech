@@ -77,7 +77,7 @@ body:
         - Oceania / Melanesia
         - Oceania / Micronesia
         - Antarctica
-  - type: textarea
+  - type: dropdown
     id: TRL
     attributes:
       label: Readiness Level of a Project
